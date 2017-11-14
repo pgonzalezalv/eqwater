@@ -1,5 +1,5 @@
 https://www.eqwater.tk
-https://www.eqwater.tk/project.html
-https://www.eqwater.tk/team.html
-https://www.eqwater.tk/donations.html
-https://www.eqwater.tk/contact.html
+https://www.eqwater.tk/project
+https://www.eqwater.tk/team
+https://www.eqwater.tk/donations
+https://www.eqwater.tk/contact
