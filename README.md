@@ -1,7 +1,8 @@
 # Eqwater
 
 ## License
-The content of this project itself is licensed under the Creative Commons Attribution Share Alike 4.0 (CC BY-SA 4.0), all rights reserved for the banner image by _&copy; Isabelle Boutriau_, and the underlying source code used to format and display that content is licensed under the MIT license.
+
+Except stated otherwise (cf. [Credits](#credits)), the content of this project itself is licensed under the Creative Commons Attribution Share Alike 4.0 (CC BY-SA 4.0) , and the underlying source code used to format and display that content is licensed under the MIT license.
 
 ## Credits:
 
